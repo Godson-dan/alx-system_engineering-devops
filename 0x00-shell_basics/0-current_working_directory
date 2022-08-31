@@ -1,0 +1,7 @@
+root@fb90c5582ab8:/alx-system_engineering-devops/0x00-shell_basics# touch 0-current_working_directory                                   
+
+root@fb90c5582ab8:/alx-system_engineering-devops/0x00-shell_basics# cd ..                                                               
+
+root@fb90c5582ab8:/alx-system_engineering-devops# pwd                                                                                   
+
+/alx-system_engineering-devops                                                                                                          
